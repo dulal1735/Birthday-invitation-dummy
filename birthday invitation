@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>You’re Invited to Celebrate My Birthday! 🎉</h1>
+    <p>I hope this message finds you well! I’m excited to share that my birthday is just around the corner, and I would love for you to be a part of the celebration.</p>
+    <img src="Cake image.jpg" alt="">
+
+    <ul>
+        <li>Date - 17 <sup>th</sup> March</li>
+        <li>Time - at around 1300 hrs</li>
+        <!-- using draggable to make this link draggable -->
+        <li>Venue - <a draggable href="https://www.google.com/maps/place/Marut+Drones/@17.4543914,78.3893895,17z/data=!3m1!4b1!4m6!3m5!1s0x3bcb93ea9f91c0bb:0xda73e6d32a2d8cd6!8m2!3d17.4543914!4d78.3919644!16s%2Fg%2F11h110v_jf?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D">This is my location"
+        </a> </li>
+    </ul>
+    <p>There will be good food, great company, and plenty of fun! Your presence would mean a lot to me as we make this day extra special together.</p>
+    <h3>Please let me know if you can join the celebration by [RSVP Date]</h3>
+    <p>Looking forward to celebrating with you!</p>
+<p>***Warm wishes,***</p>
+<p>****Dulal****</p>
+
+</body>
+</html>
